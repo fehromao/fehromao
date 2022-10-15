@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernanda Romão</h1>
-<h3 align="center">I'm account and a developer fulstcak studyng on Trybe.</h3>
+<h3 align="center">I'm an accountant and a fullstack developer studying at Trybe .</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
